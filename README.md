@@ -1,7 +1,23 @@
 ### Hi there 👋
-[![kingzino](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingzino)](https://solved.ac/kingzino)
+<!-- [![kingzino](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingzino)](https://solved.ac/kingzino) -->
+
+- I'm doing hard!! 🐜🐜🐜 <br/>
+
+    *Spring boot, JPA*
+
+- I've used it 🌞
+
+    *React.js, React-native, Spring boot, JPA, Node.js, express...*
+
+- I'm doing well (how many out of 3) 👨🏻‍💻👨🏻‍💻
+
+    *Python 🔥🔥🔥* <br/>
+    *Java, C++ 🔥🔥* <br/>
+    *Java Script* 🔥<br/>
+
 <!--
 **KIMJINOH97/KIMJINOH97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
