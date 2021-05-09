@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- [![kingzino](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingzino)](https://solved.ac/kingzino) -->
 
-- I'm doing hard!! 🐜🐜🐜 <br/>
+- I'm doing hard!! 🐜 🐜 🐜 <br/>
 
     *Spring boot, JPA*
 
@@ -9,11 +9,13 @@
 
     *React.js, React-native, Spring boot, JPA, Node.js, express...*
 
-- I'm doing well (how many out of 3) 👨🏻‍💻👨🏻‍💻
+- I'm doing well (how many out of 3) 👨🏻‍💻 👨🏻‍💻
 
-    *Python 🔥🔥🔥* <br/>
-    *Java, C++ 🔥🔥* <br/>
-    *Java Script* 🔥<br/>
+    *Python 🔥 🔥 🔥* <br/>
+    *Java, C++* 🔥 🔥 <br/>
+    *Java Script* 🔥 <br/>
+
+- I'want to be Backend-Developer 🌚
 
 <!--
 **KIMJINOH97/KIMJINOH97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
